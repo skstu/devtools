@@ -1,3 +1,9 @@
 [submodule "gn"]
 	path = gn
 	url = https://gn.googlesource.com/gn
+[submodule "ninja"]
+	path = ninja
+	url = git@github.com:ninja-build/ninja.git
+[submodule "CMake"]
+	path = CMake
+	url = git@github.com:Kitware/CMake.git
