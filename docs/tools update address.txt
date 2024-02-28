@@ -1,0 +1,5 @@
+gn:
+https://chrome-infra-packages.appspot.com/
+
+ninja:
+https://github.com/ninja-build/ninja/releases
